@@ -3,4 +3,4 @@ Yandere Dev, he has a Discord server and that server has bots. And the source co
 
 # Where's the decompiled code?
 The decompiled goodness is located in "utils/__pycache__" & "cogs/__pycahce__" as .py files.
-Also, utils has the ban/delete filters
+Also, utils has the ban/delete filters as "autobanfilter.py" and "filters.py"
